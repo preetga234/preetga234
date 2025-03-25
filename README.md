@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there preetha  Qualification: B.E Working Place: Chennai Working Area : Java👋
 
 <!--
 **preetga234/preetga234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
